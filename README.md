@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [GitHub]: https://github.com/AhmedEssamAbdullah
 [Twitter]: https://twitter.com/Ahmed_Essam18
 [Linkedin]: https://www.linkedin.com/in/ahmedessamabdullah/
-[Telegram]: @Ahmed_Essam_Abdullah
+[Telegram]: [@Ahmed_Essam_Abdullah](https://web.telegram.org/z/)
