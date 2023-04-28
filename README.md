@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 
 # Ahmed Essam
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 
 - 👋 Hi, I am [@AhmedEssamAbdullah][GitHub].
 - 👀 I am interested in Software Engineering.
 - 🌱 I am working in web development as a frontend developer.
 - 📫 You can reach me via [Linkedin], [Telegram] and [Twitter].
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ### contact with me:
 
