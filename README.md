@@ -6,7 +6,7 @@
 
 - 👋 Hi, I am [@AhmedEssamAbdullah][GitHub].
 - 👀 I am interested in Software Engineering.
-- 🌱 I am working in web development as a frontend developer.
+- 🌱 I am working in Web Development as a Frontend Web Developer.
 - 📫 You can reach me via [Linkedin], [Telegram] and [Twitter].
 
 
