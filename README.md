@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 🌱 I am working in web development as a frontend developer.
 - 📫 You can reach me via [Linkedin], [Telegram] and [Twitter].
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### contact with me:
 
 <a href="https://www.linkedin.com/in/ahmedessamabdullah/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
