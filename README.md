@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I am [@AhmedEssamAbdullah][GitHub].
 - 👀 I am interested in Software Engineering.
-- 🌱 I am working in web development.
+- 🌱 I am working in web development as a frontend developer.
 - 📫 You can reach me via [Linkedin], [Telegram] and [Twitter].
 
 ### contact with me:
