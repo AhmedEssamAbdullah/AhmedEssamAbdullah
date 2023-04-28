@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### contact with me:
 
-<a href="https://www.linkedin.com/in/ahmedessamabdullah/" target="_blank"><img src=""/></a>
+<a href="https://www.linkedin.com/in/ahmedessamabdullah/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%30Essam-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 [GitHub]: https://github.com/AhmedEssamAbdullah
 [Twitter]: https://twitter.com/Ahmed_Essam18
